@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a PhD Candidate at the Queen's University Belfast, within the Dunnes Lab (https://dunne-lab.com). 👨‍🎓
+- I am a Post-doctoral Research Fellow at the Queen's University Belfast, within the Dunne Lab (https://dunne-lab.com). 👨‍🎓
 - I primarily work with computational tools (mainly in R) for data analysis, interpretation and visualisation. 💻 📋
-- My research focusses on molecular disease stratification using transcriptomic & other omic data, within the field of cancer. 👨‍🔬 
+- My research focusses on molecular disease stratification in cancer using transcriptomic & other omic data, primarily colorectal cancer. 👨‍🔬 
+- Very keen and open to collaborations/opportunities. 
